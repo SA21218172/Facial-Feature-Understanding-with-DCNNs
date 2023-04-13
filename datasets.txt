@@ -1,0 +1,1 @@
+https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_#ms1m-retinaface
